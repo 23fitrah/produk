@@ -1,0 +1,4 @@
+Petunjuk Inventory Produk menggunakan PHP Codeigniter
+
+Pastikan base url (config/config.php) dan config database (config/database.php) sudah disetting sesuai environment agar dapat berjalan di browser.
+file db_produk.sql ada di path /produk
